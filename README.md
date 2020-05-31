@@ -1,3 +1,2 @@
 # hello-world
-GitHub tutorial
-I am currently working on understanding how to use GitHub!
+I am using this project as a sandbox for getting to know GitHub better.
